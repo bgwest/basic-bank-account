@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-intro-to-classes", "oop-intro-to-classes.csproj", "{FCB53659-DA89-400D-BBA3-B51DF41ADE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCB53659-DA89-400D-BBA3-B51DF41ADE9C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FCB53659-DA89-400D-BBA3-B51DF41ADE9C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FCB53659-DA89-400D-BBA3-B51DF41ADE9C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FCB53659-DA89-400D-BBA3-B51DF41ADE9C}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
