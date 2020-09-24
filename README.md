@@ -8,7 +8,7 @@ Created a basic console app in C# that exposes you to Object Oriented Programmin
 
 ### Example of the Console Output
 
-![Console Output](https://lh5.googleusercontent.com/U81w9AhjJ4BoMO2RdFYurI-abbcT9vwEASjsnUhaaMtEFNe5DOfTBfDdBypqNM2-68lAGbeYCtDRm_yuIxwF=w2490-h1850)
+![Console Output](https://github.com/bgwest/basic-bank-account/blob/master/console-output-example.png?raw=true)
 
 ### Additional Links
 
